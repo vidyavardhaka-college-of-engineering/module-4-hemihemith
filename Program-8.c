@@ -1,7 +1,7 @@
 //To compute the sum of all elements in an array using pointers
+
 //Input: 5 2 3 4 5 6 
 //Output:Sum=20
-
 #include <stdio.h>
 void main() 
 {
