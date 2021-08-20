@@ -16,3 +16,4 @@ int main()
   printf("value=%d",*ptr);
   return 0;
 }
+//DONE
