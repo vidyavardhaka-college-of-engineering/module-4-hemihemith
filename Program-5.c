@@ -1,6 +1,6 @@
 // Program to retrieve book details
-//Input: Pro-c 200 20 
-//Output:Pro-c 200 20
+//Input:  200 20 
+//Output: 200 20
 
 #include<stdio.h> 
 int main() 
@@ -19,4 +19,4 @@ int main()
     printf("%s %d %d", b1.name, b1.price, b1.pages); 
      return 0;
 } 
-//DONE
+
