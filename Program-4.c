@@ -19,7 +19,7 @@ int main()
     scanf("%f%f%f", &enternum.num1,&enternum.num2,&enternum.num3);
     printf("%f",(enternum.num1+enternum.num2+enternum.num3)/3);
      //compute and print the average
-    return 0
+    return 0;
 } 
 
 //DONE
